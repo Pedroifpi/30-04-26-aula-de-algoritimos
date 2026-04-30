@@ -1,1 +1,8 @@
+#include <stdio.h>
 
+int main() {
+    for (;;) {
+        printf("Loop infinito\n");
+    }
+    return 0;
+}
